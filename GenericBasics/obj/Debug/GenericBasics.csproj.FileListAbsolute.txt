@@ -1,0 +1,11 @@
+\\INSURANCE\FileData\SiteHome\IT\RBothiraj\Visual Studio 2012\Projects\MvcApplication1\GenericBasics\obj\Debug\GenericBasics.csprojResolveAssemblyReference.cache
+\\INSURANCE\FileData\SiteHome\IT\RBothiraj\Visual Studio 2012\Projects\MvcApplication1\GenericBasics\bin\Debug\GenericBasics.exe.config
+\\INSURANCE\FileData\SiteHome\IT\RBothiraj\Visual Studio 2012\Projects\MvcApplication1\GenericBasics\bin\Debug\GenericBasics.exe
+\\INSURANCE\FileData\SiteHome\IT\RBothiraj\Visual Studio 2012\Projects\MvcApplication1\GenericBasics\bin\Debug\GenericBasics.pdb
+\\INSURANCE\FileData\SiteHome\IT\RBothiraj\Visual Studio 2012\Projects\MvcApplication1\GenericBasics\bin\Debug\nunit.framework.dll
+\\INSURANCE\FileData\SiteHome\IT\RBothiraj\Visual Studio 2012\Projects\MvcApplication1\GenericBasics\bin\Debug\nunit.framework.xml
+\\INSURANCE\FileData\SiteHome\IT\RBothiraj\Visual Studio 2012\Projects\MvcApplication1\GenericBasics\obj\Debug\GenericBasics.exe
+\\INSURANCE\FileData\SiteHome\IT\RBothiraj\Visual Studio 2012\Projects\MvcApplication1\GenericBasics\obj\Debug\GenericBasics.pdb
+\\INSURANCE\FileData\SiteHome\IT\RBothiraj\Visual Studio 2012\Projects\MvcApplication1\GenericBasics\bin\Debug\FluentAssertions.dll
+\\INSURANCE\FileData\SiteHome\IT\RBothiraj\Visual Studio 2012\Projects\MvcApplication1\GenericBasics\bin\Debug\FluentAssertions.pdb
+\\INSURANCE\FileData\SiteHome\IT\RBothiraj\Visual Studio 2012\Projects\MvcApplication1\GenericBasics\bin\Debug\FluentAssertions.xml

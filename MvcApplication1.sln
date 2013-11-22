@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{6C279131-62B0-47D6-AFB7-E92932EB15CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBasics", "GenericBasics\GenericBasics.csproj", "{CDB7C083-F133-4DE6-98A6-1329E7402C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C279131-62B0-47D6-AFB7-E92932EB15CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C279131-62B0-47D6-AFB7-E92932EB15CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C279131-62B0-47D6-AFB7-E92932EB15CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C279131-62B0-47D6-AFB7-E92932EB15CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB7C083-F133-4DE6-98A6-1329E7402C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB7C083-F133-4DE6-98A6-1329E7402C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB7C083-F133-4DE6-98A6-1329E7402C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB7C083-F133-4DE6-98A6-1329E7402C72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
